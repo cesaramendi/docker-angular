@@ -30,7 +30,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Build
 
-Run `docker build . docker-angular:latest` to build the project with Docker.
+Run `docker build . -t docker-angular:latest` to build the project with Docker.
 
 ## Server
 
